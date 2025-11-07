@@ -19,9 +19,8 @@ sidebar:
   citizenship: Taiwan, China
   website: https://alex-zjh.github.io # Include the full website URL, including "http://" or "https://".
   linkedin: CHUNHAO CHANG
-  #xing: alandoe
   github: ALEX-ZJH
-  #telegram: # add your nickname without '@' sign
+  telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
   bluesky:  # Specify your full Bluesky handle
@@ -61,7 +60,6 @@ sidebar:
       link:
 
 
-
 education:
   title: Education
   info:
@@ -69,16 +67,6 @@ education:
   - degree: BSc in Artificial Intelligence
     university: Macau Polytechnic University
     time: 2025 - 2029
-    
- 
-  
-
-experiences:
-  title: Experience
-  - item: N/A
-  
-
-
   
 
 projects:
